@@ -1,4 +1,4 @@
-# HarmonyWebsiteUI
+# Modern Website UI
 
 A sleek, modern website UI featuring a responsive, fixed-top navigation bar and a visually striking header section. Built with Bootstrap and custom CSS to showcase design harmony, usability, and smooth interactions. Ideal as a starting point for designers and developers aiming for clean, elegant web interfaces.
 
